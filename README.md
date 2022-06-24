@@ -1,1 +1,3 @@
-# odin-recipes
+This is my first project from TOP curriculum. 
+I am writing this as I have just finished the project, and throughout the project I have practiced most of the html tags I've learned and basic syntax, and also some new things, such as linking to the top of the page or elements within the current page.
+One thing to highlight is the importance of Git. Committing correctly and with the right messages saves time and money for everyone involved in the project, and also it saves your fellow workers or even yourself from unnecessary and unproductive frustration. Be someone you would enjoy working with, be a good collaborator!
